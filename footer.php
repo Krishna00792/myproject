@@ -93,7 +93,7 @@
 
         <!-- Grid column -->
         <div class="col-lg-4 col-md-6">
-          <h6 class="text-uppercase fw-bold mb-4">Newsletter</h6>
+          <h6 class="text-uppercase fw-bold mb-4">Newsletter.</h6>
           <p class="small text-muted">Subscribing to our mailing list and receive weekly newsletter with latest news and offers.</p>
           <form action="#">
               <div class="input-group mb-3">
