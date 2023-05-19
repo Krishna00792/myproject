@@ -259,52 +259,53 @@
       </div>
     </div>
   </section>
-  <!-- -----contact section------   -->
-  <section id="contact" class="contact section-padding">
-    <div class="container">
+  <!-- -----callback request section------   -->
+  <div class="container">
+    <div class="text-center">
+    <h1>Request a Callback</h1>
+    <p>Please fill out the form and press the submit button.We will get back to you soon.</p>
+    </div>
+    <br>
+    <form id="callbackForm">
+      <div class="row">
+        <div class="col-md-6 mb-3">
+          <label for="reason" class="form-label">Reason for Callback</label>
+          <select class="form-select" id="reason" required>
+            <option value="">Select an option</option>
+            <option value="option1">Global Executive Search</option>
+            <option value="option2">B2B Sales Recruitment</option>
+            <option value="option2">Marketing Recruitment</option>
+            <option value="option2">IT Staffing Solution</option>
+            <option value="option2">Recruitment Process Outsourcing</option>
+            <option value="option2">Talent Maping</option>
+          </select>
+        </div>
+        <div class="col-md-6 mb-3">
+          <label for="firstName" class="form-label">First Name</label>
+          <input type="text" class="form-control" id="firstName" required>
+        </div>
+      </div>
+      <div class="row">
+        <div class="col-md-6 mb-3">
+          <label for="email" class="form-label">Email</label>
+          <input type="email" class="form-control" id="email" required>
+        </div>
+        <div class="col-md-6 mb-3">
+          <label for="phoneNumber" class="form-label">Phone Number</label>
+          <input type="tel" class="form-control" id="phoneNumber" required>
+        </div>
+      </div>
       <div class="row">
         <div class="col-md-12">
-          <div class="section-header text-center pb-5">
-            <h2>Contact Us</h2>
-            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Ducimus, sapiente?</p>
-          </div>
+          <button type="submit" class="btn btn-primary">Submit</button>
         </div>
       </div>
-
-      <div class="row m-0">
-        <div class="col-md-12 p-0 pt-4 pb-4">
-          <div class="row">
-            <div class="col-md-12">
-              <div class="mb-3">
-                <input type="text" class="form-control" required placeholder="Your Full Name">
-              </div>
-            </div>
-
-            <div class="col-md-12">
-              <div class="mb-3">
-                <input type="email" class="form-control" required placeholder="Your Email Here">
-              </div>
-            </div>
-
-            <div class="col-md-12">
-              <div class="mb-3">
-               <textarea rows="3" required class="form-control" placeholder="Your Query Here"></textarea>
-              </div>
-            </div>
-            <button class="btn btn-warning btn-lg btn-block mt-3">
-              Send Now
-            </button>
-          </div>
-        </div>
-      </div>
-    </div>
-  </section>
-
-  <!-- -----------------footer------------ -->
-  <!-- Footer -->
-
+    </form>
+  </div>
+  <br>
 <!-- Footer -->
 <?php include("footer.php") ?>
+<!-- Footer   -->
 <!-- script   -->
 
 
