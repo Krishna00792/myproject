@@ -30,12 +30,12 @@
                         Our Services
                     </a>
                     <ul class="dropdown-menu" aria-labelledby="navbarDropdown">
-                        <li><a class="dropdown-item" href="#">Global Executive Search</a></li>
-                        <li><a class="dropdown-item" href="#">B2B Sales Recruitment</a></li>
-                        <li><a class="dropdown-item" href="#">Recruitment Marketing</a></li>
-                        <li><a class="dropdown-item" href="#">IT Staffing Solution</a></li>
-                        <li><a class="dropdown-item" href="#">Recruitment Process Outsourcing</a></li>
-                        <li><a class="dropdown-item" href="#">Talent Maping</a></li>
+                        <li><a class="dropdown-item" href="services/global.php">Global Executive Search</a></li>
+                        <li><a class="dropdown-item" href="services/b2b.php">B2B Sales Recruitment</a></li>
+                        <li><a class="dropdown-item" href="services/recruitment.php">Recruitment Marketing</a></li>
+                        <li><a class="dropdown-item" href="services/itstaff.php">IT Staffing Solution</a></li>
+                        <li><a class="dropdown-item" href="services/rp.php">Recruitment Process Outsourcing</a></li>
+                        <li><a class="dropdown-item" href="services/tm.php">Talent Maping</a></li>
                     </ul>
                 </li>
                 <li class="nav-item">
