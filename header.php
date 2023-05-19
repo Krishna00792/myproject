@@ -17,11 +17,11 @@
                     </a>
                     <ul class="dropdown-menu" aria-labelledby="navbarDropdown">
                         <li><a class="dropdown-item" href="company/about-us.php">About Us</a></li>
-                        <li><a class="dropdown-item" href="why.php">Why XYZ</a></li>
-                        <li><a class="dropdown-item" href="our-team.php">Our Team</a></li>
-                        <li><a class="dropdown-item" href="testimonials.php">Testimonmials</a></li>
-                        <li><a class="dropdown-item" href="become-a-client.php">Become a Client</a></li>
-                        <li><a class="dropdown-item" href="our-client-php">Our Clients</a></li>
+                        <li><a class="dropdown-item" href="company/why.php">Why XYZ</a></li>
+                        <li><a class="dropdown-item" href="company/our-team.php">Our Team</a></li>
+                        <li><a class="dropdown-item" href="company/testimonials.php">Testimonmials</a></li>
+                        <li><a class="dropdown-item" href="company/become-a-client.php">Become a Client</a></li>
+                        <li><a class="dropdown-item" href="company/our-client-php">Our Clients</a></li>
                     </ul>
                 </li>
                 <li class="nav-item dropdown">
