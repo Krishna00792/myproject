@@ -1,0 +1,27 @@
+
+    #global img {
+        height: 85%;
+        width: 95%;
+    }
+
+    #global-header {
+        margin-top: 60px;
+        padding: 25px;
+        background: #72b8e5;
+        background: linear-gradient(to left, #7f7fd5, #86a8e7, #91eae4); 
+
+
+    }
+
+    #global-header h1 {
+        color: #111c55;
+        font-weight: bolder;
+    }
+
+    #global-header p {
+        color: #111c55;
+        margin-top: 8px;
+        font-size: 16px;
+        font-weight: 500;
+    }
+   
