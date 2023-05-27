@@ -19,7 +19,7 @@
                         <li><a class="dropdown-item" href="company/about_us.php">About Us</a></li>
                         <li><a class="dropdown-item" href="company/why.php">Why XYZ</a></li>
                         <li><a class="dropdown-item" href="company/our_team.php">Our Team</a></li>
-                        <li><a class="dropdown-item" href="company/testimonials.php">Testimonmials</a></li>
+                        <li><a class="dropdown-item" href="company/testimonials.php">Testimonmial</a></li>
                         <li><a class="dropdown-item" href="company/become_a_client.php">Become a Client</a></li>
                         <li><a class="dropdown-item" href="company/our_client.php">Our Clients</a></li>
                     </ul>
